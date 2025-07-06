@@ -36,12 +36,3 @@ This project models the return on investment (ROI) and investment required to re
 2. **Post the GitHub link on LinkedIn** with a short summary and invitation for feedback (see example post in the notebook).
 3. **Encourage open, non-political, engineering-focused discussion and improvement.**
 
-## Publishing to GitHub
-1. Create a new public repository on GitHub (e.g., `spain-solar-bess-roi`).
-2. Add all project files, especially `roi.ipynb` and this `README.md`.
-3. Commit and push your changes.
-4. Share the repository link for community review and collaboration.
-
----
-
-**Thank you for reviewing and contributing!**
